@@ -1,0 +1,47 @@
+.brand-logo {
+    margin: 0px 100px;
+}
+
+.main {
+    margin: 10px 25px;
+}
+
+.editor-text {
+    margin-top: 10px;
+}
+
+.active {
+    background: #333;
+    color: #f4f4f4
+}
+
+
+/* Text Font Style */
+.bold {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+/* Text Font Alignment */
+.justify {
+    text-align: justify;
+}
+
+.centre {
+    text-align: center;
+}
+
+.left-align {
+    text-align: left;
+}
+
+.right-align {
+    text-align: right;
+}
